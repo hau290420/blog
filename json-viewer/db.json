@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "Hoài An",
+      "birthday": "2022-02-03",
+      "createAdt": "16-2-2022",
+      "gender": "nữ",
+      "role": "1",
+      "id": 8
+    },
+    {
+      "name": "Thanh Nguyên",
+      "birthday": "2022-02-03",
+      "createAdt": "16-2-2022",
+      "gender": "nam",
+      "role": "1",
+      "id": 9
+    },
+    {
+      "name": "Ngọc Bích",
+      "birthday": "2022-02-03",
+      "createAdt": "16-2-2022",
+      "gender": "nữ",
+      "role": "2",
+      "id": 10
+    },
+    {
+      "name": "Thanh Huyền",
+      "birthday": "2022-02-03",
+      "createAdt": "16-2-2022",
+      "gender": "nữ",
+      "role": "2",
+      "id": 1
+    },
+    {
+      "name": "Khánh Trường",
+      "birthday": "2022-02-03",
+      "createAdt": "16-2-2022",
+      "gender": "nam",
+      "role": "1",
+      "id": 2
+    },
+    {
+      "name": "Kiên Định",
+      "birthday": "2022-02-03",
+      "createAdt": "16-2-2022",
+      "gender": "nam",
+      "role": "2",
+      "id": 3
+    },
+    {
+      "name": "Văn hà",
+      "birthday": "2022-02-03",
+      "createAdt": "16-2-2022",
+      "gender": "nam",
+      "role": "1",
+      "id": 4
+    },
+    {
+      "name": "Bay ",
+      "birthday": "2022-02-17",
+      "createAdt": "16-2-2022",
+      "gender": "nam",
+      "role": "1",
+      "id": 11
+    }
+  ]
+}
